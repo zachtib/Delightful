@@ -36,6 +36,7 @@ kotlin {
             dependencies {
                 implementation("org.jetbrains.kotlinx:kotlinx-cli:0.3.5")
                 implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.4.0-RC")
+                implementation("org.jetbrains.kotlinx:kotlinx-serialization-json-okio:1.4.0-RC")
                 implementation("com.squareup.okio:okio:3.2.0")
             }
         }
